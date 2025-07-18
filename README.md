@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L2MYXA
+- 👋 Hi, I’m Yevhen
 - 👀 I’m interested in Coding and AI usage
 - 🌱 I’m currently trying to learn javascript
 - 😄 Pronouns: he/him
