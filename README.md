@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yevhen
 - 👀 I’m interested in Coding and AI usage
-- 🌱 I’m currently trying to learn javascript
+- 🌱 I’m currently learning javascript
 - 😄 Pronouns: he/him
 <!---
 L2MYXA/L2MYXA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
